@@ -1,4 +1,4 @@
-# Business and Administration Degree Final Assignment
+# Business Management and Administration Degree Final Assignment
 
 Final Assignment's title: The training of human resources in companies.
 
